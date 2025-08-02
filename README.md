@@ -37,7 +37,7 @@ EventEase/
 # 🔧 Installation & Setup  
 # Step 1: Clone the Repository  
 bash
-git clone https://github.com/your-username/EventEase.git
+git clone https://github.com/deekshafulara/EventEase.git
 cd EventEase
 
 # Step 2: Open in Browser  
@@ -51,7 +51,7 @@ We welcome contributions! Follow these steps to get started:
 1. Fork the Repository  
 2. Clone Your Fork  
    bash
-   git clone https://github.com/your-username/Schedulo.git
+   git clone https://github.com/deekshafulara/Schedulo.git
    
 3. Create a New Branch  
    bash
@@ -75,6 +75,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 
  📩 Contact & Support  
-For queries and collaborations, feel free to reach out  @gayatrisingh9317@gmail.com
+For queries and collaborations, feel free to reach out  dikshafulara073@gmail.com
 
 
